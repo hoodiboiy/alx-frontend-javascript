@@ -1,0 +1,1 @@
+iconsole.lot('hello world');
